@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Api\\Kanbersky.Uploader.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Api\\Kanbersky.Uploader.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Api\\Kanbersky.Uploader.Api.csproj",
+        "projectName": "Kanbersky.Uploader.Api",
+        "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Api\\Kanbersky.Uploader.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\Kanbersky.Uploader.Business.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\Kanbersky.Uploader.Business.csproj"
+              },
+              "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\Kanbersky.Uploader.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\Kanbersky.Uploader.Business.csproj",
+        "projectName": "Kanbersky.Uploader.Business",
+        "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\Kanbersky.Uploader.Business.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.110.50, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj",
+        "projectName": "Kanbersky.Uploader.Core",
+        "projectPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\Kanbersky.Uploader.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Microservices\\Kanbersky.Uploader\\Kanbersky.Uploader.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.ElasticSearch": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

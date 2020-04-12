@@ -1,0 +1,9 @@
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\bin\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.deps.json
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\bin\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.dll
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\bin\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.pdb
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.AssemblyInfoInputs.cache
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.AssemblyInfo.cs
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.dll
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.pdb
+D:\WorkSpaces\Microservices\Kanbersky.Uploader\Kanbersky.Uploader.Core\obj\Debug\netcoreapp3.1\Kanbersky.Uploader.Core.csprojAssemblyReference.cache
